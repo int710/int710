@@ -5,7 +5,7 @@
      
 Glad you visited me, let's see what else you learn
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int710&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int710&layout=compac)
 </br>
 ![Readme Stat](https://github-readme-stats.vercel.app/api?username=int710&show_icons=true&theme=tokyonight)
 
